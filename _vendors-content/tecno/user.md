@@ -1,8 +1,8 @@
 ---
 manufacturer:
-    - tecno
-
----
+    - tecno 
+    spark GO 1
+    
 
 ## Power Saving Management
 
